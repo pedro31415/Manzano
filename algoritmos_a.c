@@ -2,7 +2,7 @@
 
 int main(){
     float c,f;
-    printf("informe o valor(celsius) para conversão(Fahrenheit): ");
+    printf("Informe o valor de celsius para conversão em  Fahrenheit ");
     scanf("%f", &c);
     f = (9*c + 160)/2;
 
