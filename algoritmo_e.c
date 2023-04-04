@@ -8,6 +8,6 @@ int main(){
     scanf("%lf%lf%lf", &v,&t,&tf);
     p = v +(v*(t/100)*tf);
     printf("A prestação de atraso: %.2lf", p);
-
+    
     return 0;
 }
