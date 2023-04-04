@@ -16,5 +16,5 @@ int main(){
     result = quadradoNumero(x);
     printf("O resultado de %.2lf = %.2lf", x,result);
 
-    return;
+    return 0;
 }
