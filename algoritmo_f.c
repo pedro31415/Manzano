@@ -10,7 +10,6 @@ int main(){
      aux = a;
       a = b;
       b = aux;
-
      printf("Os valores alterados a = %d\t b=%d\n", a,b);
 
     return 0;
