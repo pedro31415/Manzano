@@ -13,6 +13,5 @@ int main(){
        x = proxtermo;
     }
     
-
     return 0;
 }
